@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body background="../images/background.png">
+<table width="80%" border="1" align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2" align="left" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Eco Fest" -->
+      <h1>   <img src="../images/logo.png" width="75" height="102" alt="LOGO" />Eco fest</h1>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#FFFFFF"><p><a href="../index.html">Eco Fest</a></p>
+      <p><a href="../Acts.html">Acts</a></p>
+    <p><a href="../ticket prices.html">Ticket Prices</a></p>
+    <p><a href="../contact and infomation.html">Contact and Infomation</a></p>
+    <p><a href="../recycling initiative.html">Recycling Initiative</a></p></td>
+    <td valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
